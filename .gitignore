@@ -1,0 +1,20 @@
+# Unity temporary folders (matches any subfolder)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE & OS temporary files
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+.DS_Store
+Thumbs.db
