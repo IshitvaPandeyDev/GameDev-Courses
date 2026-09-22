@@ -60,4 +60,4 @@ To explore the source code or play these games locally, you will need **Unity Hu
 Computer Science Engineering student and passionate game developer. Beyond these coursework projects, I actively build custom backend services, participate in hackathons, and collaborate on indie titles for events like the GMTK and Brackeys Game Jams.
 
 - **GitHub:** [@IshitvaPandeyDev](https://github.com/IshitvaPandeyDev)
-- **LinkedIn:** [Ishitva Pandey](#) *(Add your LinkedIn link here)*
+- **LinkedIn:** [Ishitva Pandey](https://www.linkedin.com/in/ishitva-pandey-b15211376?utm_source=share_via&utm_content=profile&utm_medium=member_android)
